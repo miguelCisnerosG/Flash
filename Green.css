@@ -11,7 +11,7 @@
   body {
     font-family: "Roboto", sans-serif;
     font-size: 20px;
-    background-color: #f8feff;
+    background-color: #0755e6;
   }
   
   .container {
@@ -21,22 +21,22 @@
   }
   
   .card {
-    background-color: #e5f9ff;
+    background-color: #000000;
     margin: auto;
     padding: 15px;
     width: 350px;
-    border: 1px solid #ddd;
+    border: 1px solid rgb(0, 0, 0);
     border-radius: 10px;
     color: #000;
-    background-color: #a0b3a3;
+    background-color: #a50e03;
   }
   
   .card__header {
     margin: 0 0 15px 0;
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid rgb(0, 0, 0);
     border-radius: 10px;
-    background-color: #fff;
+    background-color: rgb(15, 85, 235);
   }
   
   .card__image {
@@ -57,9 +57,9 @@
   .info {
     margin: auto;
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid rgb(224, 11, 11);
     border-radius: 10px;
-    background-color: #fff;
+    background-color: rgb(14, 46, 189);
   }
   
   .info__decscription {
